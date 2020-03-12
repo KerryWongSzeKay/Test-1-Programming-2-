@@ -6,7 +6,8 @@ public class TestQ1
       Scanner scan= new Scanner(System.in);
       System.out.print("Enter your message : ");
       String message=scan.nextLine();
-      System.out.println(message);
+      System.out.println();
+      System.out.println("Message is : "+message);
    }
    
  }
